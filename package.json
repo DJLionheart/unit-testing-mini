@@ -1,0 +1,27 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "description": "<img src=\"https://devmounta.in/img/logowhiteblue.png\" width=\"250\" align=\"right\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DJLionheart/unit-testing-mini.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DJLionheart/unit-testing-mini/issues"
+  },
+  "homepage": "https://github.com/DJLionheart/unit-testing-mini#readme",
+  "devDependencies": {
+    "jest": "^22.4.4"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "axios-mock-adapter": "^1.15.0"
+  }
+}
